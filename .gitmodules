@@ -1,0 +1,9 @@
+[submodule "acorns-data-processing"]
+	path = acorns-data-processing
+	url = https://github.com/jongreene/acorns-data-processing
+[submodule "acorns-data-acquisition"]
+	path = acorns-data-acquisition
+	url = https://github.com/jongreene/acorns-data-acquisition
+[submodule "semi-autonomous-rover"]
+	path = semi-autonomous-rover
+	url = https://github.com/jongreene/semi-autonomous-rover
