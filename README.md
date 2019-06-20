@@ -6,7 +6,7 @@ ACORNS (Autonomous Collaborative Rover Navigation System) is a system which cont
 ### Data Processing
 ...
 
-### Sem-Autonomous Rover
+### Semi-Autonomous Rover
 ...
 
 ## Built With
