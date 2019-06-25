@@ -1,7 +1,12 @@
 # ACoRNS
 ACORNS (Autonomous Collaborative Rover Navigation System) is a system which controls the autonomous navigation of unmapped, rough terrains, using a custom designed grid-based, overhead LIDAR mapping system and a semi-autonomous rover.
 ### Data Acquisition
-...
+<img src="https://github.com/jongreene/acorns-cad-models/blob/master/images/rover_on_rails.jpg" width="300" title="LIDAR Cart on Rail System"></img>
+<img src="https://github.com/jongreene/acorns-cad-models/blob/master/images/rover_on_rails01.jpg" width="300" title="LIDAR Cart on Rail System"></img>
+<img src="https://github.com/jongreene/acorns-cad-models/blob/master/images/rover03.jpg" width="300" title="LIDAR Cart on Rail System"></img>
+<img src="https://github.com/jongreene/acorns-cad-models/blob/master/images/rover04.jpg" width="300" title="LIDAR Cart on Rail System"></img>
+
+The CAD models for the LIDAR system can be found [here.](https://github.com/jongreene/acorns-cad-models)
 
 ### Data Processing
 ...
