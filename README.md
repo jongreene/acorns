@@ -4,7 +4,7 @@ ACORNS (Autonomous Collaborative Rover Navigation System) is a system which cont
 <img src="https://github.com/jongreene/acorns-cad-models/blob/master/images/rover_on_rails01.jpg" width="100%" title="LIDAR Cart on Rail System"></img>
 
 <img src="https://github.com/jongreene/acorns-cad-models/blob/master/images/rover_on_rails.jpg" width="48%" title="LIDAR Cart on Rail System"></img>
-<img src="https://github.com/jongreene/acorns-cad-models/blob/master/images/rover03.jpg" width="48%" title="LIDAR Cart on Rail System"></img>
+<img src="https://github.com/jongreene/acorns-cad-models/blob/master/images/rover03.jpg" width="51%" title="LIDAR Cart on Rail System"></img>
 <img src="https://github.com/jongreene/acorns-cad-models/blob/master/images/rover04.jpg" width="60%" title="LIDAR Cart on Rail System"></img>
 
 The CAD models for the LIDAR system can be found [here.](https://github.com/jongreene/acorns-cad-models)
