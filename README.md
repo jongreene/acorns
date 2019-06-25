@@ -7,7 +7,9 @@ ACORNS (Autonomous Collaborative Rover Navigation System) is a system which cont
 ...
 
 ### Semi-Autonomous Rover
-...
+<img src="https://github.com/jongreene/projects-media/blob/master/acorns/6db4ab84-d0be-4a54-b1a0-f3dc903e4d98.jpeg?raw=true" width="300" title="Rover on foam pad"></img>
+
+[Rover Repo](https://github.com/jongreene/semi-autonomous-rover)
 
 ## Built With
 
